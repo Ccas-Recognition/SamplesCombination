@@ -1,0 +1,1 @@
+SamplesCombination.exe -bg bg -fg fg
